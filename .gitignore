@@ -1,0 +1,8 @@
+*/node_modules
+*/build
+*/.gitignore
+*/.eslintcache
+dev-portfolio
+*/.firebaserc
+*/firebase.json
+*/.next
